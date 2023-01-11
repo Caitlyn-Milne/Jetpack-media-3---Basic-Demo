@@ -1,5 +1,5 @@
 ## Jetpack media 3 - Basic Demo
-Just a basic demo to experiment with jatpack media 3, nothing more, nothing less.
+Just a basic demo to experiment with jetpack media 3, nothing more, nothing less.
 
 ## Disclaimers
 This app was made in a couple of hours and does not reflect best practices, nor is completely polished.
